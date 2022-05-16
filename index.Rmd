@@ -1,9 +1,17 @@
 --- 
+<<<<<<< HEAD
 title: "Guide to OptiTrack Use"
+=======
+title: "OptiTrack Guide"
+>>>>>>> 630c6e5414a71b7594e98b8ad86a35afbd4fdd03
 author: "Orly Aziza"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+<<<<<<< HEAD
 
+=======
+# Calibration
+>>>>>>> 630c6e5414a71b7594e98b8ad86a35afbd4fdd03
 
